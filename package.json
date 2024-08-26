@@ -1,5 +1,5 @@
 {
-  "name": "RISC_CISC_Emulator",
-  "description": "Run binaries compiled for CISC processors on RISC architecture or vice versa with this processor architecture emulation library.",
-  "version": "4.12.1"
+  "name": "JavaScript_Java_Interpreter",
+  "description": "Run java programs in the browser using this java interpreter written in javascript.",
+  "version": "5.12.1"
 }
