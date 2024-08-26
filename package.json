@@ -1,5 +1,5 @@
 {
-  "name": "Particle_Physics_Library",
-  "description": "A set of classes and functions to enable conducting particle physics simulations.",
-  "version": "2.12.1"
+  "name": "Flexible_Sort",
+  "description": "Classes that allow you to define your own sorting rules for custom data structures and easily apply any available sorting algorhithm without writing it yourself.",
+  "version": "3.12.1"
 }
