@@ -1,5 +1,5 @@
 {
-  "name": "Flexible_Sort",
-  "description": "Classes that allow you to define your own sorting rules for custom data structures and easily apply any available sorting algorhithm without writing it yourself.",
-  "version": "3.12.1"
+  "name": "RISC_CISC_Emulator",
+  "description": "Run binaries compiled for CISC processors on RISC architecture or vice versa with this processor architecture emulation library.",
+  "version": "4.12.1"
 }
