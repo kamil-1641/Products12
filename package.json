@@ -1,0 +1,5 @@
+{
+  "name": "Cloud_Storage_Bridge",
+  "description": "Connect with your cloud storage and seemlessly mount it as an offline drive for compatibility with programs that don't work with the cloud.",
+  "version": "1.12.1"
+}
